@@ -9,7 +9,7 @@ If you're adding a new area to your forked dotfiles — say, "Java" — you can 
 ## install
 
 ```sh
-git clone https://github.com/holman/dotfiles.git ~/.dotfiles
+git clone https://github.com/robinrendle/dotfiles.git ~/.dotfiles
 cd ~/.dotfiles
 script/bootstrap
 ```
